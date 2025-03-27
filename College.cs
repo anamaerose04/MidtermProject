@@ -59,7 +59,7 @@ namespace University
             txtCollegeCode.Clear();
             chkIsActive.Checked = false;
         }
-
+        //Delete Buttom
         private void btnDelete_Click(object sender, EventArgs e)
         {
             if (string.IsNullOrWhiteSpace(txtCollegeID.Text))
@@ -111,7 +111,7 @@ namespace University
             }
         }
 
-
+        //Update Button
         private void btnUpdate_Click(object sender, EventArgs e)
         {
             if (string.IsNullOrWhiteSpace(txtCollegeID.Text))
@@ -146,7 +146,7 @@ namespace University
                 MessageBox.Show($"Error updating data: {ex.Message}", "Database Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
-
+        //Create Button
         private void btnCreate_Click(object sender, EventArgs e)
         {
             if (string.IsNullOrWhiteSpace(txtCollegeName.Text) || string.IsNullOrWhiteSpace(txtCollegeCode.Text))
