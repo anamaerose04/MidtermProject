@@ -8,6 +8,7 @@ namespace University
 {
     public partial class Department : Form
     {
+        //connection database example changes adding comment
         private string connString = "Server=DESKTOP-OCL4OBG;Initial Catalog = UniversityDB; Integrated Security = True;";
 
         public Department()
