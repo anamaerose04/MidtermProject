@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\MGA ACTIVITIES\\University\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4862ED7A-618B-4AD1-9AC9-7F4FF4F31D3E}|University.csproj|C:\\MGA ACTIVITIES\\University\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4862ED7A-618B-4AD1-9AC9-7F4FF4F31D3E}|University.csproj|solutionrelative:menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4862ED7A-618B-4AD1-9AC9-7F4FF4F31D3E}|University.csproj|C:\\MGA ACTIVITIES\\University\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4862ED7A-618B-4AD1-9AC9-7F4FF4F31D3E}|University.csproj|solutionrelative:department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4862ED7A-618B-4AD1-9AC9-7F4FF4F31D3E}|University.csproj|C:\\MGA ACTIVITIES\\University\\college.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4862ED7A-618B-4AD1-9AC9-7F4FF4F31D3E}|University.csproj|solutionrelative:college.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4862ED7A-618B-4AD1-9AC9-7F4FF4F31D3E}|University.csproj|c:\\mga activities\\university\\college.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4862ED7A-618B-4AD1-9AC9-7F4FF4F31D3E}|University.csproj|solutionrelative:college.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4862ED7A-618B-4AD1-9AC9-7F4FF4F31D3E}|University.csproj|C:\\MGA ACTIVITIES\\University\\Department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4862ED7A-618B-4AD1-9AC9-7F4FF4F31D3E}|University.csproj|solutionrelative:Department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4862ED7A-618B-4AD1-9AC9-7F4FF4F31D3E}|University.csproj|C:\\MGA ACTIVITIES\\University\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4862ED7A-618B-4AD1-9AC9-7F4FF4F31D3E}|University.csproj|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4862ED7A-618B-4AD1-9AC9-7F4FF4F31D3E}|University.csproj|C:\\MGA ACTIVITIES\\University\\Menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4862ED7A-618B-4AD1-9AC9-7F4FF4F31D3E}|University.csproj|solutionrelative:Menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Menu.cs [Design]",
+              "DocumentMoniker": "C:\\MGA ACTIVITIES\\University\\Menu.cs",
+              "RelativeDocumentMoniker": "Menu.cs",
+              "ToolTip": "C:\\MGA ACTIVITIES\\University\\Menu.cs [Design]",
+              "RelativeToolTip": "Menu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T05:17:46.251Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "College.cs [Design]",
+              "DocumentMoniker": "C:\\MGA ACTIVITIES\\University\\College.cs",
+              "RelativeDocumentMoniker": "College.cs",
+              "ToolTip": "C:\\MGA ACTIVITIES\\University\\College.cs [Design]",
+              "RelativeToolTip": "College.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T10:26:52.368Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Department.cs [Design]",
+              "DocumentMoniker": "C:\\MGA ACTIVITIES\\University\\Department.cs",
+              "RelativeDocumentMoniker": "Department.cs",
+              "ToolTip": "C:\\MGA ACTIVITIES\\University\\Department.cs [Design]",
+              "RelativeToolTip": "Department.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T05:19:50.463Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\MGA ACTIVITIES\\University\\Department.cs",
+              "RelativeDocumentMoniker": "Department.cs",
+              "ToolTip": "C:\\MGA ACTIVITIES\\University\\Department.cs",
+              "RelativeToolTip": "Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T09:15:37.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\MGA ACTIVITIES\\University\\Menu.cs",
+              "RelativeDocumentMoniker": "Menu.cs",
+              "ToolTip": "C:\\MGA ACTIVITIES\\University\\Menu.cs",
+              "RelativeToolTip": "Menu.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAewB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T05:18:30.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "College.cs",
+              "DocumentMoniker": "C:\\MGA ACTIVITIES\\University\\College.cs",
+              "RelativeDocumentMoniker": "College.cs",
+              "ToolTip": "C:\\MGA ACTIVITIES\\University\\College.cs",
+              "RelativeToolTip": "College.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAnwDMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T09:15:28.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\MGA ACTIVITIES\\University\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\MGA ACTIVITIES\\University\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T10:48:44.722Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
