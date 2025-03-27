@@ -32,5 +32,10 @@ namespace University
             college.ShowDialog();
             this.Show();
         }
+
+        private void Menu_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

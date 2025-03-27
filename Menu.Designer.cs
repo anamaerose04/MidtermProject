@@ -37,9 +37,10 @@
             // 
             this.btnDept.BackColor = System.Drawing.Color.BlanchedAlmond;
             this.btnDept.Font = new System.Drawing.Font("Constantia", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnDept.Location = new System.Drawing.Point(98, 156);
+            this.btnDept.Location = new System.Drawing.Point(131, 192);
+            this.btnDept.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btnDept.Name = "btnDept";
-            this.btnDept.Size = new System.Drawing.Size(234, 94);
+            this.btnDept.Size = new System.Drawing.Size(312, 116);
             this.btnDept.TabIndex = 0;
             this.btnDept.Text = "Department";
             this.btnDept.UseVisualStyleBackColor = false;
@@ -49,9 +50,10 @@
             // 
             this.btnCollege.BackColor = System.Drawing.Color.BlanchedAlmond;
             this.btnCollege.Font = new System.Drawing.Font("Constantia", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnCollege.Location = new System.Drawing.Point(426, 156);
+            this.btnCollege.Location = new System.Drawing.Point(568, 192);
+            this.btnCollege.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btnCollege.Name = "btnCollege";
-            this.btnCollege.Size = new System.Drawing.Size(234, 94);
+            this.btnCollege.Size = new System.Drawing.Size(312, 116);
             this.btnCollege.TabIndex = 1;
             this.btnCollege.Text = "College";
             this.btnCollege.UseVisualStyleBackColor = false;
@@ -59,16 +61,18 @@
             // 
             // Menu
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.ClientSize = new System.Drawing.Size(768, 450);
+            this.ClientSize = new System.Drawing.Size(1024, 554);
             this.Controls.Add(this.btnCollege);
             this.Controls.Add(this.btnDept);
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "Menu";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Menu";
+            this.Load += new System.EventHandler(this.Menu_Load);
             this.ResumeLayout(false);
 
         }

@@ -85,7 +85,7 @@ namespace University
             chkIsActive.Checked = false;
         }
 
-
+        //create button
         private void btnCreate_Click(object sender, EventArgs e)
         {
             if (cmbCollege.SelectedValue == null)
@@ -169,7 +169,7 @@ namespace University
             }
         }
 
-
+        //delete button
         private void btnDelete_Click(object sender, EventArgs e)
         {
             if (string.IsNullOrWhiteSpace(txtDeptID.Text))
@@ -222,6 +222,7 @@ namespace University
         }
 
 
+        //Datagrid
         private void dgvDepartments_CellClick(object sender, DataGridViewCellEventArgs e)
         {
             try
@@ -239,6 +240,11 @@ namespace University
             {
                 MessageBox.Show("An error occurred while selecting a department: " + ex.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
+        }
+
+        private void Department_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
